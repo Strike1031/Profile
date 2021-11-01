@@ -1,0 +1,29 @@
+Life is a constant challenge and I like to challenge hard problems.
+I am strict on Quality & Deadline.
+✓ STRONG POINT: React.js(Frontend) + Node.js/Laravel(Backend)
+✓ High education: C/ C++
+
+MODERN WEB DEVELOPMENT
+✓ Front-end
+HTML5, CSS3, SASS, Bootstrap5, Canvas, WebGL
+AngularJS
+ReactJS/Redux/Thunk/NextJS + Material UI
+Shopify, E-Commerce, Woo-Commerce, WordPress
+
+✓ Back-end
+PHP, Laravel, CodeIgniter, E-commerce
+Ruby on Rails
+NodeJS, ExpressJS
+Python, Django, Flask
+
+✓ Database
+MySQL, Postgres, MongoDB
+
+✓ Blockchain (futures: crypto Exchange, future trading,etc)
+✓ Image Processing, Speech Recognition, Machine Learning
+✓ Unity 3D with C#
+✓ Photoshop and Illustrator for NFT
+
+MOBILE APP DEVELOPMENT
+✓ Native Mobile App dev: Android (Java), iOS(Swift)
+✓ Hybrid Mobile Development: React Native | Flutter
