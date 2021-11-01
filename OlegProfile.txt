@@ -1,0 +1,46 @@
+I am a full stack Sr. Developer with more than 6 years of experience in building a Web application. I have done my Bachelors in Computer Science degree and am a full-time freelancer. 
+I have worked with major IT firms in past before choosing to be a full-time freelancer.
+
+My major skills
+- PHP Framework
+Laravel, CodeIgnitor, WordPress, CakePHP, Yii, Zend
+-Unity Game Development(MMO, RPG)
+-VR/AR
+Image Recognition
+- Javascript Framework
+React.js, React Native, Angular.js, Vue.js, Nuxt.js, Next.js, Node.js, Express.js
+- Python Framework
+Django, Flask
+- HTML5, CSS, Bootstarp 5
+- Database Management
+Oracle, MySQL, MongoDB, SQLite
+- Java, Xamarin, Flutter, Swift, Object C, Unity, C#, C/C++
+- Payment Integration
+- WordPress, Shopify, Zoho, eCommerce, 
+
+Here are websites that I developed:
+Vue:	
+	https://aircall.io/
+	https://moderne.st/
+	https://yousign.com/en-uk
+	https://www.vivifyscrum.com/insights
+	https://stasyarushin.ru/does/
+	https://strutbranding.com/designs
+
+React:	
+	https://belenlopez.studio/
+	https://mad.ac/
+	https://www.michelleandtonye.com/
+	https://neilpatel.com/
+	https://www.atlassian.com/pl  
+
+Shopify:
+	https://vavavoom.ie/ 
+	https://badassbeardcare.com/ 
+	https://vikingrevolution.com/ 
+	https://coolsolarlight.com  
+	https://editorskeys.com/
+WordPress:
+	https://www.galtwayindustries.com 
+	https://tekkieuni.com 
+	http://fitnessmaster247.com/ 
